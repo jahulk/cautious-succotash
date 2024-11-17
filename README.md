@@ -7,3 +7,4 @@
 | 10.11.2024  | 2h  | Cisco Networking Academy: Introduction to Cybersecurity finished
 | 14.11.2024  | 2h  | Lectures, exploring PortSwigger environment
 | 16.11.2024  | 2h  | More PortSwigger, SQL Injection and Authentication labs
+| 17.11.2024  | 2h  | Access control lab, answering and returning the assignment 
