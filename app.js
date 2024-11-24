@@ -7,7 +7,7 @@ app.use(
   '*',
   secureHeaders({
     contentSecurityPolicy: {
-      defaultSrc: 'self',
+      defaultSrc: ["'self'"],
       scriptSrc: ["'self'"],
       styleSrc: ["'self'"],
       imgSrc: ["'self'"],
