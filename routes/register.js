@@ -19,7 +19,7 @@ const registerSchema = z.object({
 });
 
 async function isUniqueUsername(email) {
-  const result = await client.queryArray(
+  const results = await client.queryArray(
     `SELECT username FROM zephyr_users WHERE username = $1`,
     [email]
   );
