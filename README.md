@@ -25,7 +25,9 @@ Add Hono Secure Headers Middleware
 
 ## The Booking system project → Phase 2
 [Link to index page report](index-page-test.md)
+
 [Link to login page report](login-page-test.md)
+
 [Link to register page report](register-page-test.md)
 
 I was happy with the results(no alerts), so I didn't have anything to fix between test rounds
