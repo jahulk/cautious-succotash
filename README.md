@@ -9,7 +9,7 @@
 | 16.11.2024  | 2h  | More PortSwigger, SQL Injection and Authentication labs
 | 17.11.2024  | 2h  | Access control lab, answering and returning the assignment 
 | 23.11.2024  | 2h  | Lectures, Read course material
-| 24.11.2024  | 2h  | The booking system project -> Phase 1
+| 24.11.2024  | 3h  | The booking system project -> Phase 1
 | 27.11.2024  | 2h  | Lectures, Read course material
 | 30.11.2024  | 2h  | Lectures, Start booking system project -> Phase 2
 | 01.12.2024  | 2h  | The booking system project -> Phase 2 completed
