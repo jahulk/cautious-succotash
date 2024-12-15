@@ -13,6 +13,7 @@
 | 27.11.2024  | 2h  | Lectures, Read course material
 | 30.11.2024  | 2h  | Lectures, Start booking system project -> Phase 2
 | 01.12.2024  | 2h  | The booking system project -> Phase 2 completed
+| 07.12.2024  | 3h  | Lectures, Workshop
 
 ## The Booking system project → Phase 1
 [Link to report 1](first-round.md)
